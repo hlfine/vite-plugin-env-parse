@@ -1,8 +1,4 @@
-# vite-plugin-env-parse
-
-![npm](https://img.shields.io/npm/v/vite-plugin-env-parse?style=flat-square)
-![npm](https://img.shields.io/npm/dm/vite-plugin-env-parse?style=flat-square)
-![GitHub](https://img.shields.io/github/license/yue1123/vite-plugin-env-parse?style=flat-square)
+![cover](https://socialify.git.ci/yue1123/vite-plugin-env-parse/image?description=1&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 [English](./README.md)
 
